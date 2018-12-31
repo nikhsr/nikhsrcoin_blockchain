@@ -1,14 +1,14 @@
 {
-  "name": "express_website",
+  "name": "nikhsrcoin",
   "version": "1.0.0",
-  "description": "Simple website",
+  "description": "decentralised ledger",
   "main": "app.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1",
     "start": "node app.js"
   },
-  "author": "Brad Traversy",
-  "license": "ISC",
+  "author": "Nikhil Ram",
+  "license": "to me and this evergrowing community",
   "dependencies": {
     "js-sha256": "*",
     "crypto-js": "*"
